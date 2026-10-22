@@ -34,9 +34,12 @@ public class ExampleWebHook {
 
 ## Version Compatibility
 
-| Minecraft Version | Mod Version |
-|-------------------|-------------|
-| 1.21.1            | 1.x.x       |
+| Minecraft Version | Matthiesen Core Version | Mod Version |
+|-------------------|-------------------------|-------------|
+| 1.21.1            | Unsupported             | 1.0.0+      |
+| 1.21.1            | 1.x.x                   | 1.2.0+      |
+
+> Before `v1.2.0`, this mod was built as an addon for [Matthiesen Lib API](https://modrinth.com/mod/matthiesen-lib-api), which is now deprecated. Please update to the latest version of [Matthiesen Core](https://modrinth.com/mod/matthiesen-core) and this mod for continued support.
 
 ## License
 
